@@ -4,7 +4,7 @@
 
 <div style="background: linear-gradient(135deg, #1C2526, #2A3D5A); padding: 50px; border-radius: 15px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7), inset 0 0 15px rgba(30, 144, 255, 0.1); color: #E6F3FF; font-family: 'Inter', sans-serif; text-align: center; position: relative; overflow: hidden;">
   <h1 style="font-size: 56px; color: #00BFFF; text-shadow: 0 0 20px rgba(30, 144, 255, 0.5), 0 0 10px rgba(30, 144, 255, 0.3); letter-spacing: 2px; margin-bottom: 15px;">
-    <img src="https://files.catbox.moe/gwx59h.jpg" width="30"> Yilzi Portfolio
+    <img src="https://files.catbox.moe/gwx59h.jpg" width="30"> Rastay Portfolio
   </h1>
   <p style="font-size: 20px; color: #E6F3FF; font-family: 'Inter', sans-serif; text-shadow: 0 0 10px rgba(230, 243, 255, 0.3); line-height: 1.6;">
     🚀 <strong>Personal Portfolio Website</strong> 🌌 <br>
@@ -99,7 +99,7 @@
   <h3 style="color: #00BFFF; text-shadow: 0 0 15px rgba(30, 144, 255, 0.4); font-size: 28px;">🛠 Installation</h3>
   <ol style="line-height: 1.8; color: #E6F3FF;">
     <li><strong>Clone the repository</strong>:
-      <pre style="background: #252c33; padding: 15px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); color: #E6F3FF;"><code>git clone https://github.com/YilziiHCT/website-portofolio1.git
+      <pre style="background: #252c33; padding: 15px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); color: #E6F3FF;"><code>git clone [[https://github.com/rasya2451/website-portofolio.git]
 cd website-portofolio1</code></pre>
     </li>
     <li><strong>Open in browser</strong>:
